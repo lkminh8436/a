@@ -1,0 +1,165 @@
+truyenqqvn.com##.logo
+truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2) > ul:nth-child(2) > li:nth-child(2)
+truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2) > ul:nth-child(2) > li:last-child
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.hero:first-child
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.schedule:nth-child(2)
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > div.homepage_suggest:nth-child(3)
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > div.book_detail:first-child > div.book_info:nth-child(2) > div.book_other:nth-child(2) > ul.story-detail-menu:last-child
+truyenqqvn.com###comment_list
+truyenqqvn.com###chapter_content > div.chapter_content_div.chapter_new_load > div.box:first-child > div.chapter-control:last-child > div.mrt10:first-child > span.note-server:first-child
+truyenqqvn.com###chapter_content > div.chapter_content_div.chapter_new_load > div.box:first-child > div.chapter-control:last-child > div.mrt10:nth-child(2)
+truyenqqvn.com###chapter_content > div.chapter_content_div.chapter_new_load > div.box:first-child > div.chapter-control:last-child > div.alert.alert-info.mrt10:nth-child(3)
+truyenqqvn.com###ad_info_top
+truyenqqvn.com##footer
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.schedule:first-child
+truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > div.homepage_suggest:nth-child(2)
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > figure.Logo:first-child
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > div.Login:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.announcement:first-child
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.MovieListTopCn:nth-child(3)
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieListSldCn:first-child
+animevietsub.fan###single-home > div.Top:first-child
+animevietsub.fan###new-home
+animevietsub.fan###hot-home
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:first-child
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.notif-300:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > section.Wdgt:nth-child(3)
+animevietsub.fan###showChonLoc
+animevietsub.fan###showTopPhim
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child > div.tag-list-main:last-child
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > aside.widget-area:last-child
+animevietsub.fan##.aanetwork-ads-box, .aanetwork-type-flyicon
+animevietsub.fan###pc-catfixx
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.list-movie-filter.SearchMovies:nth-child(4) > div.schedule-title-main:nth-child(2)
+animevietsub.fan##.social-button
+animevietsub.fan###comments
+animevietsub.fan###mv-keywords
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
+animevietsub.fan###watch-block > center:last-child
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.watch-notice:nth-child(5)
+animevietsub.fan###invideo_wrapper
+animevietsub.fan##.watch-notice
+animevietsub.fan##.Footer
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > span.Button.MenuBtn.AAShwHdd-lnk.CXHd:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-header:last-child > div.header-mobile:first-child
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-header:last-child > div.MovieListTopCn:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-header:last-child > div.TpRwCont:last-child > aside.widget-area:last-child
+animevietsub.fan###mobile-catfixx
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.header-mobile:first-child
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.list-movie-filter.SearchMovies:nth-child(3) > div.schedule-title-main:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.TpRwCont:last-child > aside.widget-area:last-child
+||vipads.live
+nettruyenus.com###header > div.navbar > div.container > div.navbar-header:first-child > div.navbar-brand:first-child
+nettruyenus.com###header > div.navbar > div.container > div.navbar-header:first-child > div.notifications:nth-child(4)
+nettruyenus.com###header > div.navbar > div.container > ul.nav-account.list-inline.hidden-xs.pull-right:last-child
+nettruyenus.com###mainNav
+nettruyenus.com###aspnetForm > main.main:nth-child(6) > div.container:first-child
+nettruyenus.com###ctl00_divAlt1
+nettruyenus.com###ctl00_divRight
+nettruyenus.com###aspnetForm > main.main:nth-child(5) > div.container:first-child
+nettruyenus.com###item-detail > div.detail-info:nth-child(3) > div.row > div.col-xs-8.col-info:last-child > div.row.rating:nth-child(3)
+nettruyenus.com###item-detail > div.detail-info:nth-child(3) > div.row > div.col-xs-8.col-info:last-child > div.follow:nth-child(4)
+nettruyenus.com###ctl00_divCenter > ul.nav.nav-tabs.main-tab.lazy-module:nth-child(3)
+nettruyenus.com###nt_comments
+nettruyenus.com###aspnetForm > main.main:nth-child(4) > div.container:first-child
+nettruyenus.com###ctl00_divCenter > div.reading > div.container:first-child > div.reading-control:last-child > div.mrb10:nth-child(2)
+nettruyenus.com###ctl00_divCenter > div.reading > div.container:first-child > div.reading-control:last-child > div.alert.alert-info.mrb10.hidden-xs.hidden-sm:nth-child(3)
+nettruyenus.com###chapterNav > a.follow-link.btn.btn-success:last-child
+nettruyenus.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2)
+nettruyenus.com##.facebook-like
+nettruyenus.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.row:first-child
+nettruyenus.com###ctl00_divCenter > div.reading > div.container:nth-child(5) > div.row:last-child
+nettruyenus.com###ctl00_divCenter > div.reading > div.container:last-child
+nettruyenus.com##.footer
+hentaivn.tv##.qx_135
+hentaivn.tv##div.main:first-child > div:nth-child(16)
+hentaivn.tv##div.main:first-child > div.page-70:nth-child(10)
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:nth-child(13) > div.content-row-2:last-child
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:nth-child(12) > div.content-row-2:last-child
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:nth-child(11) > div.content-row-2:last-child
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > p:nth-child(4)
+hentaivn.tv##div.main:first-child > div.container:last-child > div.qx_135:nth-child(2)
+hentaivn.tv##div.page-70:nth-child(2) > div.content-row-2:last-child
+hentaivn.tv##div.main:first-child > div.container:last-child > div:nth-child(7)
+hentaivn.tv###exo-native-widget-4802872-IIPN2 > div.exo-native-widget-outer-container:last-child
+hentaivn.tv##div.main:first-child > div.page-70:last-child > div.page-uploader:nth-child(2)
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:last-child > div.content-row > div.size_80:nth-child(3)
+hentaivn.tv##div.main > div.page-70:nth-child(9)
+hentaivn.tv##div.main > div.page-70:nth-child(8) > div.block-right-top:first-child
+hentaivn.tv##div.main > div.container:nth-child(7) > div.bar-titlewhite:nth-child(4) > div.qx_135
+hentaivn.tv##div.main:first-child > div.container:nth-child(7) > p:first-child
+hentaivn.tv##div.main:first-child > div.header:first-child > div.header-wrap:first-child > div.header-left > div.table > div.headerclick_2:last-child
+hentaivn.tv##div.main:first-child > div.filter:nth-child(2) > ul.tab-nav > li.top-nav:nth-child(2)
+hentaivn.tv##div.main:first-child > div.filter:nth-child(2) > ul.tab-nav > li.top-nav:last-child
+hentaivn.tv##.footer
+hentaivn.tv##div.container:nth-child(4) > div:nth-child(2) > iframe:last-child
+hentaivn.tv##div.container:nth-child(4) > div.bot-episode:nth-child(12)
+hentaivn.tv##div.container:nth-child(4) > p:nth-child(4)
+hentaivn.tv##div.container:nth-child(4) > div.main:last-child > div.page-left:first-child > div.left-info:last-child
+hentaivn.tv###showcmt
+hentaivn.tv##div.container:nth-child(4) > div.main:last-child > div.page-left:first-child > div.left-info:nth-child(3) > div.page-info:last-child > div.page-uploader:first-child
+hentaivn.tv###smac15469
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-left:nth-child(10)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.qx_main:nth-child(6)
+hentaivn.tv##div.container:nth-child(4) > div.main > p:nth-child(5)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:last-child
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(7)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(6)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(5)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(2)
+hentaivn.tv###head > h4:last-child
+hentaivn.tv###head > h1:first-child
+7mmtv.sx##header.header:first-child > div.header-main:first-child > div.container > div.row.align-items-center.justify-content-between > div.col-auto:nth-child(2)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item.toggle:nth-child(3)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item.toggle:nth-child(4)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item:nth-child(5)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item:nth-child(6)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item:nth-child(7)
+7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item.toggle:last-child
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.position-relative.mb-4:nth-child(2)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > iframe:nth-child(3)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.a-d-block.text-center.mb-4.set_height_100:nth-child(5)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.a-d-block.text-center.mb-4.set_height_100:nth-child(7)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.a-d-block.text-center.mb-4.set_height_100:last-child
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.row.flex-lg-nowrap:nth-child(3) > div.col-12.col-related:last-child
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.row.flex-lg-nowrap:nth-child(3) > div.col-12.col-fullvideo:first-child > div.fullvideo > iframe:nth-child(8)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.block.mb-4.mb-lg-5:last-child
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.a-d-block.text-center.mb-4.d-flex.set_height_250:nth-child(3)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.row.flex-lg-nowrap:nth-child(6) > div.col-12.col-related:last-child
+7mmtv.sx###player-container > div.root--ujvuu
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.a-d-block.text-center.mb-4.d-flex.set_height_250:nth-child(2)
+7mmtv.sx##.footer
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > iframe:nth-child(2)
+7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.row.flex-lg-nowrap:nth-child(4) > div.col-12.col-related:last-child
+lxmanga.net##.preload-banner
+lxmanga.net##.preload-backdrop, .preload-smoke
+lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.flex.items-center.justify-center:nth-child(2)
+lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.right-0.flex.items-center.pr-2.sm\:static.sm\:inset-auto:last-child > div.flex.truncate:last-child
+lxmanga.net###main-nav > div.hidden.md\:block.bg-stone-600.text-white.dark\:bg-stone-200.dark\:text-black.shadow-md.shadow-gray-300.dark\:shadow-gray-800:last-child > div.relative.max-w-7xl.mx-auto.w-full.px-3.h-12 > a.inline-block.h-full.px-3.hover\:bg-stone-400.pt-3.uppercase:nth-child(2)
+lxmanga.net###main-nav > div.hidden.md\:block.bg-stone-600.text-white.dark\:bg-stone-200.dark\:text-black.shadow-md.shadow-gray-300.dark\:shadow-gray-800:last-child > div.relative.max-w-7xl.mx-auto.w-full.px-3.h-12 > a.inline-block.h-full.px-3.hover\:bg-stone-400.pt-3.uppercase:nth-child(3)
+lxmanga.net###main-nav > div.hidden.md\:block.bg-stone-600.text-white.dark\:bg-stone-200.dark\:text-black.shadow-md.shadow-gray-300.dark\:shadow-gray-800:last-child > div.relative.max-w-7xl.mx-auto.w-full.px-3.h-12 > a.inline-block.h-full.px-3.hover\:bg-stone-400.pt-3.uppercase:nth-child(6)
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-\[80px\].md\:mt-\[140px\]:nth-child(2) > div.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900
+lxmanga.net##div.ads-wrapper.hidden-mb.text-center.mt-6:nth-child(3)
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.mb-4:first-child > iframe.mt-4:first-child
+lxmanga.net###left-balloon
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.grid.grid-cols-1.md\:grid-cols-3.gap-4.mt-6:last-child > div.md\:col-span-1:last-child > div.rounded-lg.flex.items-center.mb-4.border-2.border-gray-100.dark\:border-gray-600.bg-white.dark\:bg-gray-900.shadow-md.dark\:bg-gray-800:first-child
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div:last-child > div > div.border-2.border-gray-100.dark\:border-gray-600.bg-white.dark\:bg-gray-900.mb-4.shadow-md.rounded-lg:first-child
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.grid.grid-cols-1.md\:grid-cols-3.gap-4.mt-6:last-child > div.md\:col-span-2:first-child > div.justify-between.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900:last-child
+lxmanga.net##div.dark\:shadow-gray-900.rounded.shadow-md.dark\:bg-gray-900.bg-white.p-3.dark\:border-gray-600.border-gray-100.border-2.justify-between:nth-of-type(3)
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.text-center:nth-child(3) > div.ads-wrapper.text-center:first-child
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.justify-between.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900:nth-child(5)
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.grid.grid-cols-1.md\:grid-cols-3.gap-4.mt-6:last-child > div.md\:col-span-2:first-child > div.justify-between.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900:last-child > div.flex.flex-row.truncate.mb-4:first-child
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.grid.grid-cols-1.md\:grid-cols-3.gap-4.mt-6:last-child > div.md\:col-span-2:first-child > div.justify-between.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900:last-child > div:last-child > p.pb-4.text-center:first-child
+lxmanga.net##div.max-w-7xl.mx-auto.px-3.w-full.mt-6:nth-child(5) > div.grid.grid-cols-1.md\:grid-cols-3.gap-4.mt-6:last-child > div.md\:col-span-2:first-child > div.justify-between.border-2.border-gray-100.dark\:border-gray-600.p-3.bg-white.dark\:bg-gray-900.shadow-md.rounded.dark\:shadow-gray-900:last-child > div:last-child
+lxmanga.net##footer
+lxmanga.net##div.preload-banner:nth-child(15)
+lxmanga.net##div.preload-banner:nth-child(16)
+lxmanga.net##div.preload-banner:nth-child(17)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(16)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(17)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(18)
+lxmanga.net##div.ads-wrapper.hidden-pc.text-center.mt-6:nth-child(4)
+lxmanga.net###mobile-catfish-3
+lxmanga.net###mobile-catfish-2
